@@ -4,7 +4,7 @@ I performed a complete Exploratory Data Analysis on an E-Commerce dataset of 1,2
 
 What I did:
 - Calculated basic statistics — Total Revenue PKR 1,264,761 | Average Order PKR 1,054 | Median PKR 823
-- Found 309 missing CouponCode values
+- Found 309 missing CouponCode values replace with NO coupon code
 - Analyzed product distribution — Printer had highest orders
 - Checked order status — Cancelled orders were highest at 20.8%
 - Analyzed referral sources — Instagram brought most customers at 21.6%
